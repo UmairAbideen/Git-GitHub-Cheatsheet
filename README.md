@@ -9,10 +9,10 @@ A concise and practical guide to essential Git and GitHub commands.
 This guide covers:
 
 - Local Git project flow
-- Branching and version control
-- Working with GitHub remotes
 - Undoing and restoring changes
+- Branching and version control
 - Staging, deleting, renaming files
+- Working with GitHub remotes
 
 ---
 
