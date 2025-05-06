@@ -1,6 +1,6 @@
 # 🧾 Git + GitHub Cheatsheet
 
-A concise and practical guide to essential Git and GitHub commands — perfect for your Laravel or any dev workflow.
+A concise and practical guide to essential Git and GitHub commands.
 
 ---
 
